@@ -1,12 +1,15 @@
 # git -----> Master server
-# for new project
+# 1-download and install git
+# 2-Signup Github Account
+
+# 3-for new project
     -git init
     -git add .
     - git commit -m "Message"
     -git remote add origin 
     -git branch -M main
     -git push -u origin main
-# for existing project     
+# 4-for existing project     
     -git status
     -git add .
     -git commit -m "message"
